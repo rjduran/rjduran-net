@@ -17,11 +17,12 @@ img {
 }
 
 body {
-		font-family: Arial, sans-serif;		
-    background-color: #FFFFFF;
+		/* font-family: Arial, sans-serif;		 */
+		font-family: 'Roboto Mono', monospace;
+    background-color: #F5F5F5;
     color:#222;
     line-height: 18px;
-    /* font-size: 13px; */
+    font-size: 14px;
 }
 
 a:link, a:visited {
